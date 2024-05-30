@@ -1,0 +1,50 @@
+[
+    {
+        "clase": "caballero",
+        "estadisticas": {
+            "fuerza": 8,
+            "inteligencia": 5,
+            "carisma": 7,
+            "agilidad": 4,
+            "resistencia": 7,
+            "espiritu": 6,
+            "suerte": 4
+        }
+    },
+    {
+        "clase": "arquero",
+        "estadisticas": {
+            "fuerza": 6,
+            "inteligencia": 7,
+            "carisma": 5,
+            "agilidad": 8,
+            "resistencia": 5,
+            "espiritu": 6,
+            "suerte": 4
+        }
+    },
+    {
+        "clase": "hechicero",
+        "estadisticas": {
+            "fuerza": 4,
+            "inteligencia": 8,
+            "carisma": 6,
+            "agilidad": 5,
+            "resistencia": 6,
+            "espiritu": 8,
+            "suerte": 4
+        }
+    },
+    {
+        "clase": "pugilista",
+        "estadisticas": {
+            "fuerza": 8,
+            "inteligencia": 6,
+            "carisma": 4,
+            "agilidad": 7,
+            "resistencia": 5,
+            "espiritu": 7,
+            "suerte": 4
+        }
+    }
+]
